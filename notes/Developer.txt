@@ -1,0 +1,5 @@
+Developer tools
+
+$(".event/#event") [0]
+inspect($(".event/#event") [0])
+$0.remove();
