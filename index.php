@@ -32,7 +32,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <p><i class="fa fa-user circle fa-fw w3-margin-right w3-large w3-text-teal"></i>Mark A. Aguilar</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Houston, TX </p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>aguilarmark19@gmail.com</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a href = "mailto:aguilarmark19@gmail.com">aguilarmark19@gmail.com</a></p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>832-229-0061</p>
           <hr>
 
